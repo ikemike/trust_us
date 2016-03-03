@@ -1,1 +1,1 @@
-"# trust_us" 
+(You can) Trust us Login Service* 
