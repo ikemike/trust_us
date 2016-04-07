@@ -1,0 +1,11 @@
+img, form {
+    width: 304px;
+    height: 228px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    text-align: center;
+}

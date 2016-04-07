@@ -1,0 +1,55 @@
+2016-04-01 17:32:20,699 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - nullairplanetestairplane
+2016-04-01 17:32:33,966 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - airplanetestairplane
+2016-04-01 17:32:42,264 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  -  airplane test airplane
+2016-04-01 17:33:03,392 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  -  airplane test airplane
+2016-04-01 17:33:13,059 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  -  airplane test airplane
+2016-04-01 17:33:17,159 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  -  airplane test airplane
+2016-04-01 17:33:58,279 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - airplane testairplane
+2016-04-01 17:34:20,095 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - airplane test airplane
+2016-04-01 17:34:52,937 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - airplane test airplane
+2016-04-01 17:35:00,043 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - airplane test airplane
+2016-04-01 17:35:05,973 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - airplane test airplane
+2016-04-01 17:35:22,767 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - airplane test airplane
+2016-04-01 17:36:02,662 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  -                
+2016-04-01 17:36:22,561 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - airplane test airplane
+2016-04-01 17:36:34,666 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - airplane test airplane
+2016-04-01 17:36:40,165 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - airplane test airplane
+2016-04-01 17:36:46,816 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - airplane test airplane
+2016-04-01 17:36:52,625 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - airplane test airplane
+2016-04-01 17:37:18,905 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - airplane test airplane
+2016-04-01 17:37:26,495 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - airplane test airplane
+2016-04-01 17:37:42,770 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - airplane test airplane .
+2016-04-01 17:37:50,743 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - airplane test airplane
+2016-04-01 17:38:00,764 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - equipment. test airplane
+2016-04-01 17:39:23,728 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - equipment. test airplane
+2016-04-01 17:40:07,769 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - equipment. test airplane
+2016-04-01 17:41:28,149 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - equipment. test airplane
+2016-04-01 17:41:52,349 0    [main] INFO  com.cvr.cvr.application.CVR  - true
+2016-04-01 17:41:52,350 1    [main] INFO  com.cvr.cvr.application.ApplicationTest  - equipment. test airplane
+2016-04-01 17:42:35,906 0    [main] INFO  com.cvr.cvr.application.CVR  - true
+2016-04-01 17:42:35,908 2    [main] INFO  com.cvr.cvr.application.ApplicationTest  - equipment. test airplane
+2016-04-01 17:42:56,226 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - equipment. test airplane
+2016-04-01 17:43:19,602 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  -  test airplane
+2016-04-01 17:43:33,651 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - equipment. test airplane
+2016-04-01 17:43:54,110 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - equipment. test airplane
+2016-04-01 17:44:08,468 0    [main] INFO  com.cvr.cvr.application.CVR  - true
+2016-04-01 17:44:08,469 1    [main] INFO  com.cvr.cvr.application.ApplicationTest  - equipment. test airplane
+2016-04-01 17:44:14,290 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - equipment. test airplane
+2016-04-01 17:44:19,220 0    [main] INFO  com.cvr.cvr.application.CVR  - true
+2016-04-01 17:44:19,221 1    [main] INFO  com.cvr.cvr.application.ApplicationTest  - equipment. test airplane
+2016-04-01 17:45:09,906 0    [main] INFO  com.cvr.cvr.application.CVR  - true
+2016-04-01 17:45:09,907 1    [main] INFO  com.cvr.cvr.application.CVR  - true
+2016-04-01 17:45:09,907 1    [main] INFO  com.cvr.cvr.application.ApplicationTest  - equipment. test. airplane
+2016-04-01 17:45:13,805 0    [main] INFO  com.cvr.cvr.application.CVR  - true
+2016-04-01 17:45:13,806 1    [main] INFO  com.cvr.cvr.application.ApplicationTest  - equipment. test airplane
+2016-04-01 17:46:41,041 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - equipment. test airplane
+2016-04-01 17:47:32,315 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - airplane test airplane
+2016-04-01 17:48:49,432 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - equipment. test airplane
+2016-04-01 17:48:57,386 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - equipment. test airplane
+2016-04-01 17:49:07,539 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - equipment. test equipment
+2016-04-01 17:49:17,589 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - e q u i p m e n t .   t e s t   e q u i p m e n t
+2016-04-01 17:50:02,601 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - e q u i p m e n t .   t e s t   e q u i p m e n t
+2016-04-01 17:50:17,904 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - e q u i p m e n t .   t e s t   e q u i p m e n t
+2016-04-01 17:50:29,934 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - equipment. test airplane
+2016-04-01 17:50:57,966 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - airplane  test airplane
+2016-04-01 17:51:37,259 0    [main] INFO  com.cvr.cvr.application.ApplicationTest  - equipment. test airplane
